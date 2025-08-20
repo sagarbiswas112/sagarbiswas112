@@ -1,7 +1,7 @@
 # **🌟 Welcome to My GitHub Profile!**
 
 <div align="center">
-  <img src="https://github.com/sagarbiswas112/sagarbiswas112/blob/main/Sagar%20README.png?raw=true">
+  <img src="https://github.com/sagarbiswas112/sagarbiswas112/blob/main/Make%20your%20README.png">
 </div>
 
 ---
